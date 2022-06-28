@@ -1,0 +1,47 @@
+ul li {
+    font-size: 16px;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 15px;
+    padding: 5px 0px;
+    margin: 10px 0px;
+    transition: all 0.5s ease-in;
+}
+
+.btn-red {
+    border: 2px solid #F0514E;
+    color: #F0514E;
+}
+
+.btn-red:hover {
+    box-shadow: #F0514E 200px 0 0 2px inset;
+}
+
+.btn-green {
+    border: 2px solid #4CAF50;
+    color: #4CAF50;
+}
+
+.btn-green:hover {
+    box-shadow: #4CAF50 400px 0 0 2px inset;
+}
+
+.btn-yellow {
+    border: 2px solid #FBC02D;
+    color: #FBC02D;
+}
+
+.btn-yellow:hover {
+    box-shadow: #FBC02D 600px 0 0 2px inset;
+}
+
+.btn-pink {
+    border: 2px solid #BA68C8;
+    color: #BA68C8;
+}
+
+.btn-pink:hover {
+    box-shadow: #BA68C8 800px 0 0 2px inset;
+}
